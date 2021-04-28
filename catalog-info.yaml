@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "tasas-docs"
+  description: "Documentacion para las tasas"
+  annotations:
+    github.com/project-slug: Dviejopomata/tasas-docs
+    backstage.io/techdocs-ref: url:https://github.com/Dviejopomata/tasas-docs
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "dviejo"

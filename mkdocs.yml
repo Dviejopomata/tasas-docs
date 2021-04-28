@@ -1,0 +1,8 @@
+site_name: "tasas-docs"
+site_description: "Documentacion para las tasas"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
