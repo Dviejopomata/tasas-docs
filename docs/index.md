@@ -1,6 +1,6 @@
 ## tasas-docs
 
-Documentacion para las tasas
+Documentacion para las tasas.
 
 ## Getting started
 
